@@ -12,6 +12,15 @@ Learning Golang language from Programming Zaman Now Channel
      - `$ go run main.go`
 
 ---
-## Daftar Materi
+### Daftar Materi :
+
+```
 1. Hello World
-2. 
+2. Tipe Data Number / Numeric
+3. Boolean
+4. Variable
+5. Constant
+6. Konversi Tipe Data
+7. Tipe Deklarasi
+8. Operasi Matematika
+```
